@@ -1,0 +1,22 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1750160149.4763923,
+    "transactions": [
+      "Genesis Block"
+    ],
+    "prev_hash": "0",
+    "nonce": "0",
+    "hash": "8e44487950b3c1b4f257f7a20d60feca937d5c99de483487bcc67126c7ddc82a"
+  },
+  {
+    "index": 1,
+    "timestamp": 1750160329.181219,
+    "transactions": [
+      "user mined using nonce "
+    ],
+    "prev_hash": "8e44487950b3c1b4f257f7a20d60feca937d5c99de483487bcc67126c7ddc82a",
+    "nonce": "jnyt",
+    "hash": "0f7d3cdfa5d3e936668753b3be21e49b84759cfb42503f606b619da84d7848aa"
+  }
+]
