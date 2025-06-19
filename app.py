@@ -13,7 +13,6 @@ ADMIN_USERS = os.getenv("ADMIN_USERS")
 WALLET_FILE = "wallets.json"
 ROLE = {
     "NormalUser": 50,
-    ""
     "VIP": 500,
     "SuperUser": 1000
 }
